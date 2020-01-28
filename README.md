@@ -1,3 +1,5 @@
+This is the source code to generate HPUM, the Head Pose Under hMd dataset. 
+
 This program need two services. One PHP server port 8080 to test the websites, and another server port 8910 for development.
 The server on port 8080 is Apache using PHP as backend language. The server on port 8910 is a jupyter notebook to develop html codes
 
